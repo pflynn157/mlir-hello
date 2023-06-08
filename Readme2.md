@@ -1,0 +1,1 @@
+cmake -G Ninja .. -DLLVM_DIR=~/Projects/llvm/build/lib/cmake/llvm -DMLIR_DIR=~/Projects/llvm/build/lib/cmake/mlir
